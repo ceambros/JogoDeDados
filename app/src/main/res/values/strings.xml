@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dice SDM</string>
+    <string name="dado_nao_lancado">Ainda não foi lançado</string>
+    <string name="jogar">Jogar</string>
+    <string name="face_sorteada">Face sorteada:</string>
+
+    <string-array name="numero_dados">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
